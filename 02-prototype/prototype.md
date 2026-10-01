@@ -16,6 +16,6 @@ _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** The goal behind the prototype was clear.
+- **What broke / felt like a toy:** Was not so clear that was to beused with the developer team and not already to provide anything to the final customer. Too much information in the page created.
+- **What I'd change next pass:** I need to re-think a bit about the problem I want to solve to improve backlog refinement, also how to connect it with Jira tasks and how to automatize the developers feedback in the existent user stories.
