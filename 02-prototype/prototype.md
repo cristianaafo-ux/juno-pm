@@ -4,13 +4,13 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+_https://junos-refinement-prep.lovable.app_
 
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+_Juno turns scattered customer feedback and team observations into a refinement-ready brief with evidence-linked insights, proposed feature priorities, draft acceptance criteria, and key risks. The prototype tests whether a developer can understand the problem and proposed first feature without extra explanation. The response is illustrative; no AI service is connected._
 
 _____
 
