@@ -97,4 +97,3 @@ _Stub. Module 6 fills this in: golden set, pass thresholds, and regression caden
 ## Out of scope
 
 Any capability not in the verb list above, and any action tiered `blocked`. Both are decisions on the record, not omissions.
-
